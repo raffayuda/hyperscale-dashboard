@@ -1,0 +1,25 @@
+{
+	"/": [
+		"src/routes/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/billing": [
+		"src/routes/+layout.ts"
+	],
+	"/deployments": [
+		"src/routes/+layout.ts"
+	],
+	"/profile": [
+		"src/routes/+layout.ts"
+	],
+	"/project/[slug]": [
+		"src/routes/project/[slug]/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/settings": [
+		"src/routes/+layout.ts"
+	],
+	"/storage": [
+		"src/routes/+layout.ts"
+	]
+}
